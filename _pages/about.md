@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated with a Bachelor of Engineering degree from University of Jinan. And I am getting a Master of Science degree from the School of Computer Science and Engineering, Macau University of Science and Technology, advised by [Zhanchuan Cai (蔡占川)](https://www.must.edu.mo/en/scse/staff/cai-zhan-chuan).
+I graduated with a Bachelor of Engineering degree from University of Jinan. And I am getting a Master of Science degree from the School of Computer Science and Engineering, Macau University of Science and Technology, advised by Professor [Zhanchuan Cai (蔡占川)](https://www.must.edu.mo/en/scse/staff/cai-zhan-chuan).
 
 My research interest includes multi-modal learning and computer vision.
 
@@ -41,18 +41,20 @@ My research interest includes multi-modal learning and computer vision.
 </div>
 </div>
 
-- [Unsupervised Image Recognition De-Biasing via Meta-Learning](../assets/files/AI_for_social_good_research_proposal.pdf), AI for social good, **Research Proposal**
+- *2023* [Unsupervised Image Recognition De-Biasing via Meta-Learning](../assets/files/AI_for_social_good_research_proposal.pdf), AI for social good, **Research Proposal**
 
-- [Astrid: An Instruction-based Image Editing App](../assets/files/astrid_poster.pdf), Multi-modal Learning, **Poster**
+- *2023* [Astrid: An Instruction-based Image Editing App](../assets/files/astrid_poster.pdf), Multi-modal Learning, **Poster**
 
-- [Image Inpainting By Image Segmentation Through Mask Transformer](../assets/files/DIP_Report.pdf), Computer Vision, **Research Report**
+- *2022* [Image Inpainting By Image Segmentation Through Mask Transformer](../assets/files/DIP_Report.pdf), Computer Vision, **Research Report**
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖️ Honors and Awards
+- *2022* First-class Scholarship, University of Jinan
+- *2022* [Outstanding Bachelor Thesis](https://github.com/Arkitect-z/Imagnifier), University of Jinan
+- *2022* Outstanding Undergraduate Student, University of Jinan
+- *2020* Prize for Excellence, Huawei Cloud AI Application And Innovation Competition
 
 # 📖 Educations
-- *2022.09 - 2024.07 (now)*, Master of Science, Macau University of Science and Technology, School of Computer Science and Engineering, School of Innovative Engineering.
+- *2022.09 - 2024.07 (now)*, Master of Science, Macau University of Science and Technology, School of Computer Science and Engineering, Faculty of Innovation Engineering.
 - *2018.09 - 2022.07*, Bachelor of Engineering, University of Jinan, Faculty of Information Science and Engineering.
 
 <!-- # 💬 Invited Talks
