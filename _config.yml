@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenyu Wei \n(魏振宇)"
-  avatar           : "assets/images/winston.jpg"
+  name             : "Zhenyu Wei (魏振宇)"
+  avatar           : "assets/images/avatar.png"
   bio              : "Macau University of Science and Technology"
   location         : "Macao, China"
   employer         :
