@@ -33,7 +33,7 @@ My research interest includes multi-modal learning and computer vision.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../assets/images/Overview.png' alt="sym" width="500px"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhanced Object Tracking by Self-Supervised Auxiliary Depth Estimation Learning](https://scholar.google.com/)
+[Enhanced Object Tracking by Self-Supervised Auxiliary Depth Estimation Learning](https://arxiv.org/abs/2405.14195)
 
 **Zhenyu Wei**, Yujie He, Zhanchuan Cai
 
@@ -54,7 +54,7 @@ My research interest includes multi-modal learning and computer vision.
 - *2020* Prize for Excellence, Huawei Cloud AI Application And Innovation Competition
 
 # 📖 Educations
-- *2022.09 - 2024.07 (now)*, Master of Science, Macau University of Science and Technology, School of Computer Science and Engineering, Faculty of Innovation Engineering.
+- *2022.09 - now*, Master of Science, Macau University of Science and Technology, School of Computer Science and Engineering, Faculty of Innovation Engineering.
 - *2018.09 - 2022.07*, Bachelor of Engineering, University of Jinan, Faculty of Information Science and Engineering.
 
 <!-- # 💬 Invited Talks
@@ -62,4 +62,4 @@ My research interest includes multi-modal learning and computer vision.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.03 - 2022.06*, [Inspur](https://www.inspur.com/), China. Software Development, Intelligent R&D Department.
+- *2022.03 - 2022.06*, [Inspur](https://www.inspur.com/), China. Software Development, Intelligent OP&Dev Department.
