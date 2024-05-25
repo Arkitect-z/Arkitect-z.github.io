@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated with a B.E. degree from University of Jinan. And I am getting a M.S. degree in information technology from the School of Computer Science and Engineering, Macau University of Science and Technology, advised by Professor [Zhanchuan Cai (蔡占川)](https://www.must.edu.mo/en/scse/staff/cai-zhan-chuan).
+I graduated with a Bachelor of Engineering degree from University of Jinan. And I am getting a Master of Science degree in information technology from the School of Computer Science and Engineering, Macau University of Science and Technology, advised by Professor [Zhanchuan Cai (蔡占川)](https://www.must.edu.mo/en/scse/staff/cai-zhan-chuan).
 
 My research interest includes multi-modal learning and computer vision.
 
