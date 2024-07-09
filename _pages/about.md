@@ -30,7 +30,7 @@ My research interest includes multi-modal learning and computer vision.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../assets/images/Overview.png' alt="sym" width="500px"></div></div>
+<div class='paper-box' data-ccursor="lift"><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../assets/images/Overview.png' alt="sym" width="500px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhanced Object Tracking by Self-Supervised Auxiliary Depth Estimation Learning](https://arxiv.org/abs/2405.14195)
